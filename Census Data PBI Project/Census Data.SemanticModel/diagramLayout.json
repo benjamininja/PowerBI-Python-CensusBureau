@@ -1,0 +1,113 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 568,
+            "y": 5
+          },
+          "nodeIndex": "201&key=8e2c161cf95c0cd8ee01fec7acebcba70f8a1adc",
+          "nodeLineageTag": "821d1aa2-9f39-4cb0-b361-dbea00d396fa",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 852,
+            "y": 103
+          },
+          "nodeIndex": "201&key=8e2c161cf95c0cd8ee01fec7acebcba70f8a1adc (2)",
+          "nodeLineageTag": "5487fcdb-f7e0-4e2d-9a18-238f2095dab8",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1136,
+            "y": 5
+          },
+          "nodeIndex": "201&key=8e2c161cf95c0cd8ee01fec7acebcba70f8a1adc (3)",
+          "nodeLineageTag": "7dffb1ce-7d4b-4c1f-97c2-f6ef78fff37a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1420,
+            "y": 5
+          },
+          "nodeIndex": "censusapidata (2)",
+          "nodeLineageTag": "dcadfca3-7dca-4d20-8ee5-0f46b159bc8a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1704,
+            "y": 79
+          },
+          "nodeIndex": "custom",
+          "nodeLineageTag": "55e5f2eb-3a57-47e3-8d4b-6b6751e0f537",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 294,
+            "y": -5
+          },
+          "nodeIndex": "psam_h48",
+          "nodeLineageTag": "aca991c0-1feb-4cdc-a2d6-13015791124a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": -5
+          },
+          "nodeIndex": "psam_p48",
+          "nodeLineageTag": "c0ce0cce-498a-4b5e-ba9b-4e16ecb80da5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
